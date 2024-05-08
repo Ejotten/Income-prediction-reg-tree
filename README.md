@@ -1,5 +1,5 @@
 #  Customer Income Prediction with Optimized Regression Tree
-Python: https://www.python.org/
+[![Python](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 
 This project focuses on predicting customer income, empowering businesses with valuable insights for customer segmentation, targeted marketing campaigns, and improved pricing strategies. It uses the power of regression trees, known for their interpretability and efficiency in uncovering nonlinear relationships between variables.
 
